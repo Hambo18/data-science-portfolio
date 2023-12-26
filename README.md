@@ -19,7 +19,10 @@ Investment Management Intern @ Veritas Investment Partners (_June 2023 - July 20
 Datacamp Career Track "Data Science with Python"
 [Publication](https://....)
 
-
-
 Adding Images
 ![Title Name](Insert image link)
+
+
+# Header 1
+## Header 2 
+### Header 3 
